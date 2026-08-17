@@ -7,6 +7,7 @@ public:
         for(int i=0;i<n;i++){
             palindrome[i][i]=1;
         }
+        //this code is for substring palindrome hain ki nhi 
         for(int leng=2;leng<=n;leng++){
             for(int i=0;i<=n-leng;i++){
                 int j = i+leng-1;
