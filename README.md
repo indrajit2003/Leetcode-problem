@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/0087-scramble-string) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
