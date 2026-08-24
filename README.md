@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Stack
 |  |
@@ -78,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
