@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/indrajit2003/Leetcode-problem/tree/master/1046-last-stone-weight) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/indrajit2003/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/indrajit2003/Leetcode-problem/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
