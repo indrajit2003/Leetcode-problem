@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/indrajit2003/Leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/indrajit2003/Leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/indrajit2003/Leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Divide and Conquer
 |  |
