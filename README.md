@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/0087-scramble-string) |
+| [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
