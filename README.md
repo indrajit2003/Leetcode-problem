@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/indrajit2003/Leetcode-problem/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/indrajit2003/Leetcode-problem/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
