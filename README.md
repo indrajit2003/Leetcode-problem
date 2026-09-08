@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/indrajit2003/Leetcode-problem/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
