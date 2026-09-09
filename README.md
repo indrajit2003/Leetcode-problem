@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/indrajit2003/Leetcode-problem/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/indrajit2003/Leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/indrajit2003/Leetcode-problem/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
