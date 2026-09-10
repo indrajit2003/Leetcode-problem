@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
-    int findSum(TreeNode* root,int &count){
-        if(!root) return 0;
+    pair<int,int>solve(TreeNode* root,int &res){
+        if(!root) return {0,0};
+        
+        pair<int,int> p1 = solve(root->left,res);
+        pair<int,int> p2 = solve(root->right,res);
+        int totalSum = p1.first+p2.first+root->val;
+        int totalCount = p1.second+p2.second+1;
 
-        count+=1;
-        return root->val+findSum(root->left,count)+findSum(root->right,count);
-    }
-    void solve(TreeNode* root,int &res){
-        if(!root) return;
-        int count=0;
-        int sum = findSum(root,count);
-        if(root->val==sum/count) res+=1;
-        solve(root->left,res);
-        solve(root->right,res);
+        if(totalSum/totalCount == root->val) res+=1;
+
+        return {totalSum,totalCount};
     }
     int averageOfSubtree(TreeNode* root) {
-        if(!root->left and !root->right) return 1;
         int res=0;
         solve(root,res);
         return res;
