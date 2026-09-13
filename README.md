@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/indrajit2003/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/indrajit2003/Leetcode-problem/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/indrajit2003/Leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/indrajit2003/Leetcode-problem/tree/master/0015-3sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/indrajit2003/Leetcode-problem/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/indrajit2003/Leetcode-problem/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
