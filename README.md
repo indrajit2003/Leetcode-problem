@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/indrajit2003/Leetcode-problem/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajit2003/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/indrajit2003/Leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajit2003/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/indrajit2003/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajit2003/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/indrajit2003/Leetcode-problem/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/indrajit2003/Leetcode-problem/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajit2003/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
