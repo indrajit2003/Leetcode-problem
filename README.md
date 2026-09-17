@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/indrajit2003/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/indrajit2003/Leetcode-problem/tree/master/3360-stone-removal-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/indrajit2003/Leetcode-problem/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/indrajit2003/Leetcode-problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
