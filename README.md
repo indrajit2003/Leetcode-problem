@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/indrajit2003/Leetcode-problem/tree/master/1046-last-stone-weight) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/indrajit2003/Leetcode-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajit2003/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/indrajit2003/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/indrajit2003/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/indrajit2003/Leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/indrajit2003/Leetcode-problem/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajit2003/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajit2003/Leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/indrajit2003/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajit2003/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/indrajit2003/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/indrajit2003/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Lifting
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajit2003/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/indrajit2003/Leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/indrajit2003/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -202,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/indrajit2003/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajit2003/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
